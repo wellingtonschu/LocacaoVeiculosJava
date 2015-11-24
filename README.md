@@ -20,3 +20,5 @@ O sistema de locação vai possuir os seguintes componentes:
 * Somar uma taxa de cancelamento se o cancelamento ocorrer em menos de 5 dias da data da reserva;
 
 Possiveis acréscimos de funcionalidades podem ocorrer durante o desenvolvimeto, os mesmos serão listados aqui.
+
+*
