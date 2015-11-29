@@ -24,15 +24,17 @@ import javax.swing.event.ChangeEvent;
 public class Menu {
 
 	private JFrame frmAluguelDeCarros;
+	
+	String localhost = "C:\\Users\\welli\\OneDrive\\BCC\\2ª Fase\\Programação I\\";
 
 	/*
 	 * Initialize the icons
 	 */
 
-	Image icon_novo = new ImageIcon("C:\\Users\\Rodrigo\\workspace\\LocacaoVeiculosJava\\Icons\\ionicons\\plus.png").getImage().getScaledInstance( 20, 20,  java.awt.Image.SCALE_SMOOTH);
-	Image icon_editar = new ImageIcon("C:\\Users\\Rodrigo\\workspace\\LocacaoVeiculosJava\\Icons\\ionicons\\edit.png").getImage().getScaledInstance( 20, 20,  java.awt.Image.SCALE_SMOOTH);
-	Image icon_excluir = new ImageIcon("C:\\Users\\Rodrigo\\workspace\\LocacaoVeiculosJava\\Icons\\ionicons\\close.png").getImage().getScaledInstance( 20, 20,  java.awt.Image.SCALE_SMOOTH);
-	Image icon_listar = new ImageIcon("C:\\Users\\Rodrigo\\workspace\\LocacaoVeiculosJava\\Icons\\ionicons\\navicon-round.png").getImage().getScaledInstance( 20, 20,  java.awt.Image.SCALE_SMOOTH);
+	Image icon_novo = new ImageIcon(localhost + "workspace\\LocacaoVeiculosJava\\Icons\\ionicons\\plus.png").getImage().getScaledInstance( 20, 20,  java.awt.Image.SCALE_SMOOTH);
+	Image icon_editar = new ImageIcon(localhost + "workspace\\LocacaoVeiculosJava\\Icons\\ionicons\\edit.png").getImage().getScaledInstance( 20, 20,  java.awt.Image.SCALE_SMOOTH);
+	Image icon_excluir = new ImageIcon(localhost + "workspace\\LocacaoVeiculosJava\\Icons\\ionicons\\close.png").getImage().getScaledInstance( 20, 20,  java.awt.Image.SCALE_SMOOTH);
+	Image icon_listar = new ImageIcon(localhost + "workspace\\LocacaoVeiculosJava\\Icons\\ionicons\\navicon-round.png").getImage().getScaledInstance( 20, 20,  java.awt.Image.SCALE_SMOOTH);
 	
 	/*
 	 * Launch the application.
