@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Locacoes><titulo>Cadastro de Locacoes</titulo><data>27/10/2015 8:15:51</data><locacao Codigo="1">
+	<CodReserva></CodReserva><CodCliente></CodCliente>
+	<CodVeiculo></CodVeiculo>
+	<DataInicio></DataInicio>
+	<DataFim></DataFim>
+	<DataPedido></DataPedido>
+	<Valor></Valor></locacao></Locacoes>

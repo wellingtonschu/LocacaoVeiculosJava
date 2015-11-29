@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reservas><titulo>Cadastro de Reservas</titulo><data>27/10/2015 8:15:51</data><reserva Codigo="1">
+	<CodCliente></CodCliente>
+	<CodVeiculo></CodVeiculo>
+	<DataInicio></DataInicio>
+	<DataFim></DataFim>
+	<DataPedido></DataPedido></reserva></Reservas>
